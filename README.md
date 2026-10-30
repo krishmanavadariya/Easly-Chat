@@ -1,2 +1,1 @@
-"# chat-app" 
-"# Easly-chat-app" 
+"# Easly-Chat" 
